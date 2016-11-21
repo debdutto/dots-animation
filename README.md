@@ -1,5 +1,5 @@
 # dots-animation
-Code snippet for three dots animating to show progress or waiting or whatever
+Code snippet in swift 3 for three dots animating to show progress or waiting or whatever
 
 ## Usage
 
