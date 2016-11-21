@@ -16,3 +16,5 @@ viewToAnimate.addSubview(animationDots)
 let animation = DotsAnimation()
 animation.stopDotsAnimation(dots: animationDots)
 ```
+
+###### PS: I'm ~~a noob~~ an amateur in swift. Planning on making this more versatile and dynamic to incorporate n-dots and k amount of scaling. Suggestions and improvements are always welcome.
